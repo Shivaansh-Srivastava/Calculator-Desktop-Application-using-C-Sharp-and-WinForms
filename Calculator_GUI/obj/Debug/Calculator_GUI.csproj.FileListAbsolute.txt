@@ -1,0 +1,9 @@
+E:\Calculator_GUI\bin\Debug\Calculator_GUI.exe.config
+E:\Calculator_GUI\bin\Debug\Calculator_GUI.exe
+E:\Calculator_GUI\bin\Debug\Calculator_GUI.pdb
+E:\Calculator_GUI\obj\Debug\Calculator_GUI.Form1.resources
+E:\Calculator_GUI\obj\Debug\Calculator_GUI.Properties.Resources.resources
+E:\Calculator_GUI\obj\Debug\Calculator_GUI.csproj.GenerateResource.cache
+E:\Calculator_GUI\obj\Debug\Calculator_GUI.csproj.CoreCompileInputs.cache
+E:\Calculator_GUI\obj\Debug\Calculator_GUI.exe
+E:\Calculator_GUI\obj\Debug\Calculator_GUI.pdb
